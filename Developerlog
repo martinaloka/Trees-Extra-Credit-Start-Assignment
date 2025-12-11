@@ -1,0 +1,24 @@
+# Developer Log
+
+This file tracks all progress, bugs, fixes, and commit explanations.
+
+---
+
+## 📅 2025-02-9 — Project Start
+- Set up repository
+- Added `main.cpp` and started planning the tree structure
+
+---
+
+## 📅 2025-02-10 — Tree Header File Work
+- Created `tree.h`
+- Defined Node and Tree classes
+- Started working on dynamic memory handling
+
+### Bugs / Issues:
+- Unsure about destructor logic for multi-parent nodes  
+- Fixed by updating destructor to only delete children with no parents left
+
+### Files Modified:
+- tree.h
+Commit Message:
