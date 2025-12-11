@@ -22,3 +22,22 @@ This file tracks all progress, bugs, fixes, and commit explanations.
 ### Files Modified:
 - tree.h
 Commit Message:
+Implemented Node and Tree classes with destructor and DFS search
+
+---
+
+## 📅 2025-02-10 — Project Build Setup
+- Added `CMakeLists.txt`
+- Added README.md
+
+### Commit Message:
+Added CMake build config and project README
+
+
+---
+
+## 📅 2025-02-10 — Final Testing
+- Ran the program and verified tree loads and plays a story
+- Confirmed `story.txt` is generated
+
+### Commit Message:
